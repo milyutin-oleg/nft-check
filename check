@@ -1,0 +1,91 @@
+{
+  "data": {
+    "updated_at": "2023-03-23T21:07:43.925663471Z",
+    "address": "polkaguy.eth",
+    "collection": "0x59468516a8259058bad1ca5f8f4bff190d30e066",
+    "items": [
+      {
+        "contract_address": "0x59468516a8259058bad1ca5f8f4bff190d30e066",
+        "contract_name": "Invisible Friends",
+        "contract_ticker_symbol": "INVSBLE",
+        "supports_erc": [
+          "erc20",
+          "erc721"
+        ],
+        "token_id": "4626",
+        "last_transfered_at": "2023-03-21T12:03:47Z",
+        "balance": 1,
+        "balance24h": 1,
+        "type": "nft",
+        "nft_data": {
+          "token_id": "4626",
+          "token_url": "https://ipfs.io/ipfs/QmarGRwVKPaCe2s5QSSTMEdbYDwKxFz6bAn58YZPPcWc7k/4626",
+          "original_owner": null,
+          "external_data": {
+            "name": "Invisible Friends #4626",
+            "description": "5,000 animated Invisible Friends hiding in the metaverse. A collection by Markus Magnusson & Random Character Collective.",
+            "asset_url": "https://nftassets.covalenthq.com/b05da43d935ff1e45db5fbbdf195b0fae43a6f08803deabf35115bd3a1450717.gif",
+            "asset_file_extension": "gif",
+            "asset_mime_type": "image/gif",
+            "asset_size_bytes": "1195147",
+            "image": "https://nftassets.covalenthq.com/b05da43d935ff1e45db5fbbdf195b0fae43a6f08803deabf35115bd3a1450717.gif",
+            "image_256": "https://nftassets.covalenthq.com/cdn-cgi/image/width=256,fit/b05da43d935ff1e45db5fbbdf195b0fae43a6f08803deabf35115bd3a1450717.gif",
+            "image_512": "https://nftassets.covalenthq.com/cdn-cgi/image/width=512,fit/b05da43d935ff1e45db5fbbdf195b0fae43a6f08803deabf35115bd3a1450717.gif",
+            "image_1024": "https://nftassets.covalenthq.com/cdn-cgi/image/width=1024,fit/b05da43d935ff1e45db5fbbdf195b0fae43a6f08803deabf35115bd3a1450717.gif",
+            "animation_url": null,
+            "external_url": null,
+            "attributes": [
+              {
+                "trait_type": "Feet",
+                "value": "Bubblegum Blue Sneakers"
+              },
+              {
+                "trait_type": "Legs",
+                "value": "White Sweatpants"
+              },
+              {
+                "trait_type": "Upper Body",
+                "value": "Grey Zipper Hoodie with Hood Down"
+              },
+              {
+                "trait_type": "Sleeves",
+                "value": "Long Sleeves"
+              },
+              {
+                "trait_type": "Hat",
+                "value": "Red Headband"
+              },
+              {
+                "trait_type": "Eyes",
+                "value": "Black Glasses"
+              },
+              {
+                "trait_type": "Mouth",
+                "value": "Bing Bong Stick"
+              },
+              {
+                "trait_type": "Ears",
+                "value": "Earrings"
+              },
+              {
+                "trait_type": "Right Arm",
+                "value": "Swinging"
+              },
+              {
+                "trait_type": "Left Arm",
+                "value": "Swinging"
+              },
+              {
+                "trait_type": "Background",
+                "value": "Purple"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "error": false,
+  "error_message": null,
+  "error_code": null
+}
